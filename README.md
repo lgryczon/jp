@@ -12,7 +12,7 @@
 1. Gągol Szymon
 1. Gencel Adam
 1. [Gorzkowski Michał](https://github.com/mgorzkowski)
-1. Gryczon Łukasz
+1. [Gryczon Łukasz](https://github.com/lgryczon)
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. Kałabis Paweł
 1. [Kamiński Mateusz](https://github.com/mattiasquat/jp)
